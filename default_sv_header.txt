@@ -1,0 +1,17 @@
+// ================================================================================
+// This document contains CONFIDENTIAL information and is the property of $company. 
+//
+// It must not be disclosed, copied, altered or used without the written permission
+// of $company.
+//
+// ================================================================================
+//
+// Author: $Firstname $LASTNAME ($USER)  
+//
+// File: $file
+//
+// Creation Date: $date
+//
+// Description:
+//
+// ================================================================================
